@@ -1,0 +1,3 @@
+number_01 = 1000
+number_02 = 7628
+print(number_01 + number_02)
